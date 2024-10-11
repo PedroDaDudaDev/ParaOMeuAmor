@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(210, 181, 237);
+}
+
+div {
+    background: rgb(218,86,144);
+    background: radial-gradient(circle, rgba(218,86,144,1) 12%, rgba(129,161,200,1) 100%);
+    width: 750px;
+    height: 350px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    margin-left: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 20px;
+}
